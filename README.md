@@ -11,5 +11,5 @@
 >
 > I also needed to think more about my responce to obsticals. I need to talk out the problem and give myself a chance to see a different avenue of approching it.
 >
->If your a visual learner as i am, try [this!](https://soundcloud.com/atlassian-software/perseverance-gumption-traps-and-maintaining-a-growth-mindset)
+>If your a visual learner as i am, try [this!](NewGrowthMindset2 (1).png)
 >
