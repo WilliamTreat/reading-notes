@@ -13,3 +13,4 @@
 >
 >If your a visual learner as i am, try [this!](NewGrowthMindset2 (1).png)
 >
+> now to see if i can still make changes!
