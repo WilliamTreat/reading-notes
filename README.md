@@ -1,4 +1,4 @@
-# *Welcome* to **my** new ***notes page*** version3
+# *Welcome* to **my** ***notes page***
 
 ![Code monkey](monkeybrain.jpg)
 
