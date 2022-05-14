@@ -6,5 +6,6 @@
 >
 > for more info, try this link...
 >
-[MarkDown tutorial](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
-[MarkDown cheet sheets](https://www.markdownguide.org/cheat-sheet/)
+[MarkDown Tutorial](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+>
+[MarkDown Cheat Sheets](https://www.markdownguide.org/cheat-sheet/)

@@ -16,6 +16,6 @@
 >
 > ***table of contents***.
 >
-> [MarkDown editing format](md_files/markdown.md)
+> [MarkDown Editing Format](md_files/markdown.md)
 >
-> [growth mindset](md_files/growth_mindset.md)
+> [Growth Mindset](md_files/growth_mindset.md)
