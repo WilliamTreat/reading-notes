@@ -22,3 +22,5 @@
 >
 > [Linux Notes and Tutorial](md_files/linux_tutorial.md)
 >
+> [Git and GitHub](md_files/git_and_github_notes.md)
+>
