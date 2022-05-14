@@ -1,4 +1,4 @@
-# notes
+# Growth Mindset
 
 > Having a **Growth Mindset** is an improvement over my philosiphy that the only thing we really have any control of is our *attitude*.
 >
