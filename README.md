@@ -19,3 +19,6 @@
 > [MarkDown Editing Format](md_files/markdown.md)
 >
 > [Growth Mindset](md_files/growth_mindset.md)
+>
+> [Linux Notes and Tutorial](md_files/linux_tutorial.md)
+>
