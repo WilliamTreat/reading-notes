@@ -26,3 +26,5 @@
 >
 > [HTML notes and cheat sheet link](md_files/html_notes.md)
 >
+> [CSS and Color notes](md_files/css_notes.md)
+>

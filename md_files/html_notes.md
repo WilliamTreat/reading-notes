@@ -9,5 +9,6 @@
 >note to self... DON'T TRY PLAYING WITH VARIABLES YET!
 >
 > [HTML basics link](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+>
 > [HTML cheat sheet link](https://www.w3schools.com/TAgs/default.asp)
 >
