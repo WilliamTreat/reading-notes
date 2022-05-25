@@ -24,3 +24,5 @@
 >
 > [Git and GitHub](md_files/git_and_github_notes.md)
 >
+> [HTML notes and cheat sheet link](md_files/html_notes.md)
+>
